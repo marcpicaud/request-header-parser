@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcpicaud/request-header-parser/issues"
   },
-  "homepage": "https://github.com/marcpicaud/request-header-parser#readme"
+  "homepage": "https://github.com/marcpicaud/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
